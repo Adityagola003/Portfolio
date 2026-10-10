@@ -58,7 +58,7 @@ export const portfolioData: PortfolioData = {
       description:
         "AI-assisted code review application that performs AST-based static analysis, detects issues such as unsafe eval() and use-before-assignment, and integrates NVD CVE-based dependency vulnerability scanning with an optional LLM analysis layer.",
       stack: ["Python", "JavaScript", "AST Analysis", "NVD CVE", "LLM"],
-      link: "https://codelumen-ai.onrender.com/app/",
+      link: "https://codelumen.onrender.com/app/",
     },
     {
       year: "2026",
